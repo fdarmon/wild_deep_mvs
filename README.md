@@ -7,11 +7,11 @@ This repository provides the code to reproduce the experiments of the paper. It 
 If you find this repository useful for your research, please consider citing
 ```
 @article{
-  author    = {Fran{\c{c}}ois Darmon and
-               B{\'{e}}n{\'{e}}dicte Bascle and
-               Jean{-}Cl{\'{e}}ment Devaux and
-               Pascal Monasse and
-               Mathieu Aubry},
+  author    = {Darmon, Fran{\c{c}}ois  and
+               Bascle, B{\'{e}}n{\'{e}}dicte  and
+               Devaux, Jean{-}Cl{\'{e}}ment  and
+               Monasse, Pascal  and
+               Aubry, Mathieu},
   title     = {Deep Multi-View Stereo gone wild},
   year      = {2021},
   url       = {https://arxiv.org/abs/2104.15119},
