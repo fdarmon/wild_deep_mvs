@@ -1,6 +1,6 @@
 # Deep MVS gone wild
 
-Pytorch implementation of "Deep MVS gone wild" ([Paper](https://arxiv.org/pdf/2104.15119) | [website](https://imagine.enpc.fr/~darmonf/wild_deep_mvs))
+Pytorch implementation of "Deep MVS gone wild" published at 3DV2021 ([Paper](https://arxiv.org/pdf/2104.15119) | [website](https://imagine.enpc.fr/~darmonf/wild_deep_mvs))
 
 This repository provides the code to reproduce the experiments of the paper. It implements extensive comparison of Deep MVS architecture, training data and supervision.
 
@@ -14,7 +14,7 @@ If you find this repository useful for your research, please consider citing
                Aubry, Mathieu},
   title     = {Deep Multi-View Stereo gone wild},
   year      = {2021},
-  url       = {https://arxiv.org/abs/2104.15119},
+  url       = {International Conference on 3D Vision},
 }
 ```
 
